@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="dataSourceStorageLocal">
+    <data-source name="Rails pandebonito: development" uuid="dd63a474-fb22-4deb-ad87-463d0daced32">
+      <auth-required>false</auth-required>
+    </data-source>
+    <data-source name="Rails pandebonito: test" uuid="150fd2ba-7e2d-4d08-8bff-72eeeb4cd0ec">
+      <auth-required>false</auth-required>
+    </data-source>
+  </component>
+</project>
